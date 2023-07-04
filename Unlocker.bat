@@ -1,6 +1,6 @@
 @echo off
 
-title Rar Cracker Labib
+title Rar Cracker By Mahmudur Rahman Labib
 
 mode con: cols=47 lines=20
 
